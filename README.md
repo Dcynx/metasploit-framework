@@ -1,4 +1,4 @@
-Metasploit [![Build Status](https://travis-ci.org/rapid7/metasploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/metasploit-framework) [![Code Climate](https://img.shields.io/codeclimate/github/rapid7/metasploit-framework.svg)](https://codeclimate.com/github/rapid7/metasploit-framework)
+idkMetasploit [![Build Status](https://travis-ci.org/rapid7/metasploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/metasploit-framework) [![Code Climate](https://img.shields.io/codeclimate/github/rapid7/metasploit-framework.svg)](https://codeclimate.com/github/rapid7/metasploit-framework)
 ==
 The Metasploit Framework is released under a BSD-style license. See
 COPYING for more details.
@@ -45,5 +45,3 @@ pull request. For slightly more information, see
 [wiki-start]: https://github.com/rapid7/metasploit-framework/wiki/ "Metasploit Wiki"
 [wiki-usage]: https://github.com/rapid7/metasploit-framework/wiki/Using-Metasploit "Using Metasploit"
 [unleashed]: https://www.offensive-security.com/metasploit-unleashed/ "Metasploit Unleashed"
-
-
